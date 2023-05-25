@@ -1,7 +1,11 @@
-# graphBackdoor
+# Graph Backdoor Attack
 
-Reference: 
-[1] https://github.dev/zaixizhang/graphbackdoor
-[2] GCC -> Unsupervised Contrastive Learning
+# Main Reference:
 
-Reference being Developed
+- [1] [Backdoor Attack](https://github.dev/zaixizhang/graphbackdoor).  
+- [2] GCC: Unsupervised Contrastive Learning.  
+
+## Whether backdoor attack can be applied on GCC model?
+
+Branch: ssl backdoor attack.   
+Result: :(        
