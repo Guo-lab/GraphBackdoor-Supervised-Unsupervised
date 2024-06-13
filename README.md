@@ -29,7 +29,7 @@ Pipeline: Pretrain -> Generate -> Downstream Tasks
 
 
 
-#### Result
+<!--#### Result
 
 <img src="./figures/image-20230526151522698.png" alt="image-20230526151522698" style="zoom:40%;" />
 
@@ -37,7 +37,7 @@ The Impact of Backdoor Injected Rate (in test phase) on CAD [Clean Accuracy - Ba
 
 <img src="./figures/image-20230526151545164.png" alt="image-20230526151545164" style="zoom:40%;" />
 
-Not so powerful. 
+Not so powerful. -->
 
 Future: Unsupervised Graph backdoor attack could be enhanced with other backdoor attack strategies, such as [Bi-Level Optimization](https://arxiv.org/pdf/2006.11890.pdf) or [UGBD](https://arxiv.org/pdf/2303.01263.pdf)   
 
