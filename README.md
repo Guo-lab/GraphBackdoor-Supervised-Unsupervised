@@ -8,4 +8,4 @@
 ## Whether backdoor attack can be applied on GCC model?
 
 Branch: ssl backdoor attack.   
-Result: :(        
+<!--Result: :(-->        
